@@ -1,9 +1,1 @@
-﻿{
-  "appname": "test",
-  "newappsize": 2.7,
-  "newappversionName": "1.0.2",
-  "newappUpdateDesc": "更新测试",
-  "newappReleaseTime": "2016-10-14 12:37",
-  "newappurl": "",
-  "isForceUpdate": 1
-}
+﻿{"appName":"test","newAppSize":5.5,"newAppVersionCode":11,"newAppVersionName":"1.0.2","newAppUpdateDesc":"test","newAppReleaseTime":"2016-10-14 12:37","newAppUrl":"test","isForceUpdate":0}
